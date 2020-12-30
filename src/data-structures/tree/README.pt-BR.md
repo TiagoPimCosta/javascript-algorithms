@@ -7,7 +7,7 @@
 * [Árvorem Fenwick (Fenwick Tree)](fenwick-tree/README.pt-BR.md) (Árvore Binária Indexada / Binary Indexed Tree)
 
 Na ciência da computação, uma **árvore** é uma estrutura de dados
-abstrada (ADT) amplamente utilizada - ou uma estrutura de dados
+abstrata (ADT) amplamente utilizada - ou uma estrutura de dados
 implementando este ADT que simula uma estrutura hierarquica de árvore,
 com valor raíz e sub-árvores de filhos com um nó pai, representado
 como um conjunto de nós conectados.
